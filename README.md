@@ -2,7 +2,7 @@
 
 ### Reusable Stateful List Logic using TypeScript and Generics
 
-[![YouTube Video](#)](#)
+[![YouTube Video](images/video-screenshot.png)](https://youtu.be/xowYPNU4kGI)
 
 This video short demonstation represents some of the content covered in the following React courses taught by [Accelebrate](https://www.accelebrate.com/):
 
@@ -68,4 +68,4 @@ npm start
 
 When the development web server starts, it should open the React web site in your default web browser. The url will be [http://localhost:3000](http://localhost:3000)
 
-**Step 6.** Start watching the [YouTube Video](#) and code along to learn more about how to use generic types in TypeScript to implement reusable custom hooks in React
+**Step 6.** Start watching the [YouTube Video](https://youtu.be/xowYPNU4kGI) and code along to learn more about how to use generic types in TypeScript to implement reusable custom hooks in React
